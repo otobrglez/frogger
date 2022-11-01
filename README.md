@@ -5,7 +5,7 @@ challenge.
 
 Frogger uses the latest Scala 3 with ZIO and some glue.
 
-For more information, please reffer to [transit-lang-cmp].
+For more information, please refer to [transit-lang-cmp].
 
 # Development
 
